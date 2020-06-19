@@ -75,3 +75,17 @@ Analyze and visualize your wrangled data in your <em>wrangle_act.ipynb</em> Jupy
 Create a <strong>300-600 word written report</strong> called <em>wrangle_report.pdf</em> or <em>wrangle_report.html</em> that briefly describes your wrangling efforts. This is to be framed as an internal document.
 
 Create a <strong>250-word-minimum written report</strong> called <em>act_report.pdf</em> or <em>act_report.html</em> that communicates the insights and displays the visualization(s) produced from your wrangled data. 
+
+#### Before you submit:
+
+* Ensure you meet specifications for all items in the Project Rubric. Your project "meets specifications" only if it meets specifications for all of the criteria.
+* Ensure you have not included your API keys, secrets, and tokens in your project files.
+* If you completed your project in the Project Workspace, ensure the following files are present in your workspace, then click "Submit Project" in the bottom righthand corner of the Project Workspace page:
+  * `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data
+  * `wrangle_report.pdf` or `wrangle_report.html`: documentation for data wrangling steps: gather, assess, and clean
+  * `act_report.pdf` or `act_report.html`: documentation of analysis and insights into final data
+  * `twitter_archive_enhanced.csv`: file as given
+  * `image_predictions.tsv`: file downloaded programmatically
+  * `tweet_json.txt`: file constructed via API
+  * `twitter_archive_master.csv`: combined and cleaned data
+  * any additional files (e.g. files for additional pieces of gathered data or a database file for your stored clean data)
