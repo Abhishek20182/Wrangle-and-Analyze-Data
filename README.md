@@ -31,7 +31,8 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 <p align="center">
   <img src="https://video.udacity-data.com/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg" width = 500px; height =300px;\>
 </p>
-  ### What Software Do I Need? <a name="installation"></a>
+
+### What Software Do I Need? <a name="installation"></a>
 
 The entirety of this project can be completed inside the Udacity classroom on the **Project Workspace: Complete and Submit Project** page using the Jupyter Notebook provided there. (Note: This Project Workspace may not be available in all versions of this project, in which case you should follow the directions below.)
 
