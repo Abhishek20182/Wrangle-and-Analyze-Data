@@ -126,6 +126,13 @@ This is an Udacity Nanodegree project.I was interested in using Tweet Data to be
   - Lucy - 11
   - Charlie - 11
   - Oliver - 10 and so on
+- **Visualizations**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-1.png" width=500px>
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-2.png">
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-3.png">
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-4.png">
+</p>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Udacity to providing this data. You can find the Licensing for the data and other descriptive information at [here](https://support.twitter.com/articles/20170160)
